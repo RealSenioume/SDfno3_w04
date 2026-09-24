@@ -59,5 +59,5 @@ ax.grid(True, alpha=0.3)
 
 out = Path("out")
 out.mkdir(exist_ok=True)
-plt.savefig(out / "solar_radiation.png", dpi=150, bbox_inches="tight")
+plt.savefig(out / "HK_solar_radiation_2026Jan2Jun.png", dpi=300, bbox_inches="tight")
 print(f"Saved to {out / 'HK_solar_radiation_2026Jan2Jun.png'}")
