@@ -1,4 +1,7 @@
-//fetching data fr0m NASA POWER
+# /// script
+# requires-python = ">=3.10"
+# dependencies = ["requests"]
+# ///
 
 import requests
 from pathlib import Path
