@@ -6,3 +6,6 @@
 
 # Test render output in \out\solar_radiation.png
 03 09/24/2026
+
+# README updated, using Deepseek for the basic analysis.
+04 10/04/2026
